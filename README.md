@@ -6,7 +6,7 @@
 ## Visualization: Various visualizations, including time series plots, bar charts, and scatter plots, are used to illustrate Ronaldo's performance metrics and career milestones.
 ## Statistical Analysis: Insights into Ronaldo's goal-scoring trends, match performance, and other key statistics are provided.
 ## Comparative Analysis: Comparisons of Ronaldo's performance with other top footballers to provide context to his achievements.
-# I used  Datasets inthis EDA 
+# I used  Datasets in this EDA 
 ## The project utilizes data from various sources, including:
 ## Historical match data
 ## Career statistics
